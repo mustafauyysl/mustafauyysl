@@ -1,4 +1,4 @@
-https://media.giphy.com/media/xT0BKpqAaJczduXXJ6/source.gif
+![giphy](https://user-images.githubusercontent.com/41873800/106427471-7e22e000-6478-11eb-94a0-88e2d7b69957.gif)
 
 ### Hi there 👋
 
